@@ -1,14 +1,14 @@
 import { ChevronDown } from "lucide-react";
 
 const sectors = [
-  { name: 'Nagar Nigam', img: 'src/assets/nagar-nigam.png' },
-  { name: 'PWD', img: 'src/assets/pwd.png' },
-  { name: 'Jal Nigam', img: 'src/assets/jal-nigam.png' },
-  { name: 'Transport Department', img: 'src/assets/transport.png' },
-  { name: 'Electricity Distribution Companies', img: 'src/assets/electricity.png' },
-  { name: 'Urban Planning and Development', img: 'src/assets/urban-planning.png' },
-  { name: 'Police Department', img: 'src/assets/police.png' },
-  { name: 'Information Technology Department', img: 'src/assets/it-department.png' },
+  { name: 'Nagar Nigam', img: 'src/assets/Department/nagarnigam.png' },
+  { name: 'PWD', img: 'src/assets/Department/pwd.png' },
+  { name: 'Jal Nigam', img: 'src/assets/Department/jalnigam.png' },
+  { name: 'Transport Department', img: 'src/assets/Department/transport.jpeg' },
+  { name: 'Electricity Distribution Companies', img: 'src/assets/Department/electricity.svg' },
+  { name: 'Urban Planning and Development', img: 'src/assets/Department/urbanplanning.jpg' },
+  { name: 'Police Department', img: 'src/assets/Department/police.png' },
+  { name: 'Information Technology Department', img: 'src/assets/Department/IT.png' },
 ];
 
 const Sectors = () => {
